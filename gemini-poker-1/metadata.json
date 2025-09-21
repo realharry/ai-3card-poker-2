@@ -1,0 +1,5 @@
+
+{
+  "name": "Three-Card Poker AI",
+  "description": "A visually-rich three-card poker casino game built with React, TypeScript, and Pixi.js. Features an AI-powered hint system using the Gemini API to provide strategic advice to players."
+}
